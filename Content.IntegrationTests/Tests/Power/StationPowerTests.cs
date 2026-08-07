@@ -49,6 +49,7 @@ public sealed class StationPowerTests : GameTest
         "BlimpufKiloton",
         "BlimpufLagan",
         "BlimpufLobster",
+        // "BlimpufNovoLobster",
         "BlimpufManor",
         "BlimpufLeth",
         "BlimpufMing",
