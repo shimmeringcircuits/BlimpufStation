@@ -153,4 +153,32 @@ Entries:
   id: 407610
   time: '2026-08-16T14:57:21.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/5659
+- author: SirLutz
+  changes:
+  - message: Turnstile HP reduced from 500-> 150.
+    type: Tweak
+  id: 407648
+  time: '2026-08-16T15:53:53.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/5672
+- author: SirLutz
+  changes:
+  - message: Airlocks HP reduced from 500 -> 300.
+    type: Tweak
+  id: 407649
+  time: '2026-08-16T15:53:53.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/5672
+- author: SirLutz
+  changes:
+  - message: Firelocks HP reduced from 500 -> 250.
+    type: Tweak
+  id: 407650
+  time: '2026-08-16T15:53:53.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/5672
+- author: SirLutz
+  changes:
+  - message: Reinf. Windoors HP reduced from 400 -> 300.
+    type: Tweak
+  id: 407651
+  time: '2026-08-16T15:53:53.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/5672
 Order: -1
