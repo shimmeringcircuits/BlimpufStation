@@ -202,4 +202,39 @@ Entries:
   id: 408008
   time: '2026-08-30T18:09:30.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/5689
+- author: OMEGA
+  changes:
+  - message: The engi dispenser now has a separate Atmospherics tab, and sells a mini jetpack, double emergency oxygen and nitrogen tanks, and a holofan projector.
+    type: Add
+  id: 407652
+  time: '2026-08-16T15:53:55.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/5638
+- author: OMEGA
+  changes:
+  - message: The EngiVend now stocks a handheld radio, Geiger counter and hand labeler.
+    type: Add
+  id: 407653
+  time: '2026-08-16T15:53:55.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/5638
+- author: OMEGA
+  changes:
+  - message: The EngiDrobe and AtmosDrobe now stock a utility belt and a gas mask.
+    type: Add
+  id: 407654
+  time: '2026-08-16T15:53:55.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/5638
+- author: OMEGA
+  changes:
+  - message: The Chief Engineer's access configurator now starts in their toolbelt instead of their locker.
+    type: Tweak
+  id: 407655
+  time: '2026-08-16T15:53:55.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/5638
+- author: OMEGA
+  changes:
+  - message: Removed duplicate items from the Chief Engineer's locker.
+    type: Remove
+  id: 407656
+  time: '2026-08-16T15:53:55.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/5638
 Order: -1
