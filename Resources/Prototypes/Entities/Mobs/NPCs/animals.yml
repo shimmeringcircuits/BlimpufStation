@@ -560,6 +560,7 @@
     allowedEmotes: ['Chitter', 'Squeak', 'FlapWings'] # Starlight: Add wing flap
   - type: FaxableObject
     insertingState: inserting_mothroach
+    outputtingText: "mothroach.txt" # Starlight-edit
   - type: MothAccent
   - type: Sprite
     sprite: Mobs/Animals/mothroach/mothroach.rsi
@@ -1910,6 +1911,7 @@
   - type: Physics
   - type: FaxableObject
     insertingState: inserting_mouse
+    outputtingText: "mouse.txt" # Starlight-edit
   - type: Fixtures
     fixtures:
       fix1:
@@ -3769,6 +3771,7 @@
   - type: Physics
   - type: FaxableObject
     insertingState: inserting_hamster
+    outputtingText: "hamster.txt" # Starlight-edit
   - type: Fixtures
     fixtures:
       fix1:
