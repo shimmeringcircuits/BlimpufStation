@@ -265,4 +265,11 @@ Entries:
   id: 407662
   time: '2026-08-16T16:24:12.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/5654
+- author: Mack
+  changes:
+  - message: Construction ghosts templates.
+    type: Add
+  id: 407657
+  time: '2026-08-16T16:24:08.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/5649
 Order: -1
