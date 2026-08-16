@@ -41,4 +41,25 @@ Entries:
   id: 407587
   time: '2026-08-16T11:48:34.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/5354
+- author: OMEGA
+  changes:
+  - message: Air alarm variants for Chamber, ChamberUnlocked, and Sauna for mapping use.
+    type: Add
+  id: 407588
+  time: '2026-08-16T12:16:59.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/5542
+- author: OMEGA
+  changes:
+  - message: Scrubber and vent variants for Chamber, ChamberUnlocked, and Sauna for mapping use.
+    type: Add
+  id: 407589
+  time: '2026-08-16T12:16:59.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/5542
+- author: OMEGA
+  changes:
+  - message: Changed all air alarm variants to reflect their function.
+    type: Tweak
+  id: 407590
+  time: '2026-08-16T12:16:59.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/5542
 Order: -1
