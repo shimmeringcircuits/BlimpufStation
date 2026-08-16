@@ -6,6 +6,7 @@ store-category-medical-chemistry = Chemistry
 store-category-medical-medical = Medical
 store-category-medical-surgery = Surgery
 store-category-engineering-main = Engineering
+store-category-engineering-atmos = Atmospherics
 store-category-service-clown = Clown
 store-category-service-mime = Mime
 store-category-security-main = Security
