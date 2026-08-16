@@ -90,4 +90,46 @@ Entries:
   id: 407596
   time: '2026-08-16T12:38:35.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/5607
+- author: SirLutz
+  changes:
+  - message: Malign Minons now can fly over railings, tables, computers, thus not getting stuck.
+    type: Add
+  id: 407597
+  time: '2026-08-16T12:38:37.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/5563
+- author: SirLutz
+  changes:
+  - message: Malign Minions now ghost after death when pressing WASD.
+    type: Add
+  id: 407598
+  time: '2026-08-16T12:38:37.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/5563
+- author: SirLutz
+  changes:
+  - message: Malign Minions now have FlyingMobHitboxes.
+    type: Add
+  id: 407599
+  time: '2026-08-16T12:38:37.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/5563
+- author: SirLutz
+  changes:
+  - message: Custoidan and Oracle do more struct damage so they can break reinf. windows.
+    type: Tweak
+  id: 407600
+  time: '2026-08-16T12:38:37.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/5563
+- author: SirLutz
+  changes:
+  - message: Colossal Ingress now can also remove secure windoors and small firelocks.
+    type: Fix
+  id: 407601
+  time: '2026-08-16T12:38:37.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/5563
+- author: SirLutz
+  changes:
+  - message: Malign passageway health reduced from 600->300, and RCD can remove them now.
+    type: Tweak
+  id: 407602
+  time: '2026-08-16T12:38:37.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/5563
 Order: -1
