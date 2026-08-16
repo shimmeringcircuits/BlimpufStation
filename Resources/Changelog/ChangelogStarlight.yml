@@ -139,4 +139,11 @@ Entries:
   id: 407603
   time: '2026-08-16T13:06:48.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/5631
+- author: Conflee
+  changes:
+  - message: Added Floor Lights. Placed above carpets but below furniture. Can be walked over and objects can be dragged over them. Come in all bulb variants and colors. Can be constructed and deconstructed mid-round.
+    type: Add
+  id: 407609
+  time: '2026-08-16T14:14:19.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/5674
 Order: -1
