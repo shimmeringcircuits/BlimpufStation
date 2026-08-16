@@ -6,3 +6,18 @@ Entries:
   id: 407583
   time: '2026-08-16T10:51:06.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/5593
+- author: Romero
+  changes:
+  - message: Thermal implant are now a tech 3 med technology.
+    type: Tweak
+  id: 407581
+  time: '2026-08-16T10:51:04.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/5545
+- author: Romero
+  changes:
+  - message: NVG are moved to tier 2.
+    type: Tweak
+  id: 407582
+  time: '2026-08-16T10:51:04.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/5545
+Order: -1
