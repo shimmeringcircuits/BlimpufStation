@@ -146,4 +146,11 @@ Entries:
   id: 407609
   time: '2026-08-16T14:14:19.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/5674
+- author: DocMoth
+  changes:
+  - message: Foxfire Charm to fashion vend.
+    type: Add
+  id: 407610
+  time: '2026-08-16T14:57:21.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/5659
 Order: -1
