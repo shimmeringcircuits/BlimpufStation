@@ -181,4 +181,25 @@ Entries:
   id: 407651
   time: '2026-08-16T15:53:53.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/5672
+- author: SirLutz
+  changes:
+  - message: Rebuffed Turnstiles to 250HP, but now costs 4 Rods and 2 Plasteel and door eletronics.
+    type: Tweak
+  id: 408006
+  time: '2026-08-30T18:09:30.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/5689
+- author: SirLutz
+  changes:
+  - message: Turnstile Assembly, now you can move it after deconstruction.
+    type: Add
+  id: 408007
+  time: '2026-08-30T18:09:30.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/5689
+- author: SirLutz
+  changes:
+  - message: Turnstile can now take door eletronics, so easy config managment.
+    type: Add
+  id: 408008
+  time: '2026-08-30T18:09:30.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/5689
 Order: -1
