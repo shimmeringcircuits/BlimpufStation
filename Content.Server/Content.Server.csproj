@@ -37,6 +37,9 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="EntityConditions\Conditions\MetabolizerTypesEntityConditionSystem.cs" />
+  </ItemGroup>
   <Import Project="..\RobustToolbox\MSBuild\Robust.Properties.targets" />
 
   <Import Project="..\RobustToolbox\Imports\Lidgren.props" />
