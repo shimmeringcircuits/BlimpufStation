@@ -1,7 +1,8 @@
 using Content.Shared.Body.Components;
 using Content.Shared._Blimpuf.Medical.Body.Components;
 using Content.Shared.Body.Systems;
-using Content.Server._Starlight.Medical.Body.Systems;
+using Content.Shared._Starlight.Medical.Body.Components;
+using Content.Shared._Starlight.Medical.Body.Systems;
 
 namespace Content.Server._Blimpuf.Medical.Body.Systems;
 
@@ -27,7 +28,7 @@ public sealed partial class DipsomaniaSystem : EntitySystem
         if (!TryComp<MetabolizerComponent>(stomach, out var metabolizer))
             return;
 
-        _metabolizer.TryAddMetabolizerType((stomach, metabolizer), DipsomaniaMetabolizerType);
+        /*_metabolizer.TryAddMetabolizerType((stomach, metabolizer), DipsomaniaMetabolizerType); TODO*/
         EnsureComp<DipsomaniaCarrierComponent>(stomach);
         RemComp<DipsomaniaComponent>(ent);
     }
