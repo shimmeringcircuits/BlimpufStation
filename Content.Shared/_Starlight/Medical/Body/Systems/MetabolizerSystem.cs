@@ -326,6 +326,19 @@ public sealed class MetabolizerSystem : EntitySystem
         return true;
     }
 
+    /// Blimpuf- Re-add function SL removed which we still use for Dipsomania
+    public bool TryAddMetabolizerType(Entity<MetabolizerComponent> ent, string metabolizerType)
+    {
+        if (!_prototypeManager.HasIndex<MetabolizerTypePrototype>(metabolizerType))
+            return false;
+
+        ent.Comp.MetabolizerTypes ??= new();
+        if (!ent.Comp.MetabolizerTypes.Add(metabolizerType))
+            return false;
+
+        return true;
+    }
+
     public bool HasStage(
         Entity<MetabolizerComponent?> ent,
         ProtoId<MetabolismStagePrototype> stage) => Resolve(ent, ref ent.Comp, logMissing: false)
