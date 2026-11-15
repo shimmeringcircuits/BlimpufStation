@@ -241,7 +241,7 @@
       - !type:ModifyBloodLevel
         conditions:
         - !type:MetabolizerTypeCondition
-          type: [ Cyclorite ]
+          type: [ TNebri ]
         amount: 0.4 # Starlight end
     Respiration:
       effects:
