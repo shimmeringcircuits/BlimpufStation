@@ -839,7 +839,7 @@ public sealed partial class FaxSystem : EntitySystem
         if (printout == null)
             return false;
 
-        if (component.SendTimeout > 0) return false;
+        if (component.SendTimeoutRemaining > 0) return false; // Blimpuf- otherwise this will never be true
 
         if (component.DestinationFaxAddress == null ||
             !component.KnownFaxes.ContainsKey(component.DestinationFaxAddress))
